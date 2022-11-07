@@ -1,1 +1,1 @@
-module github.com/mikioh/tcp
+module github.com/juztamau5/tcp
